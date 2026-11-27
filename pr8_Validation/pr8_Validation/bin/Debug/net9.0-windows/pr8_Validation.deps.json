@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "pr8_Validation/1.0.0": {
+        "runtime": {
+          "pr8_Validation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pr8_Validation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

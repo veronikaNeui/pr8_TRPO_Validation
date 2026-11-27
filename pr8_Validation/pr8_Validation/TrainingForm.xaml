@@ -1,0 +1,116 @@
+﻿<Window x:Class="pr8_Validation.TrainingForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:pr8_Validation"
+        xmlns:validators="clr-namespace:pr8_Validation.ValidationRules"
+        mc:Ignorable="d"
+        Title="TrainingForm" Height="450" Width="800"
+        Background="#F5F5F5"
+        
+        >
+    <Grid Margin="15">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        
+        <TextBlock x:Name="HeaderText" Grid.Row="0" Text="Создание записи" Foreground="#2A4D9B" FontSize="20" FontWeight="Bold" Margin="0,0,0,15"/>
+
+        <StackPanel Grid.Row="1">
+            <Label Content="Дата тренировки" />
+            <DatePicker x:Name="DatePickerTraining">
+                <DatePicker.SelectedDate>
+                    <Binding Path="Date" UpdateSourceTrigger="PropertyChanged">
+                        <Binding.ValidationRules>
+                            <validators:DateNotFutureRule ValidatesOnTargetUpdated="True" />
+                        </Binding.ValidationRules>
+                    </Binding>
+                </DatePicker.SelectedDate>
+            </DatePicker>
+            <ItemsControl Foreground="Red" FontSize="12" ItemsSource="{Binding ElementName=DatePickerTraining, Path=(Validation.Errors)}">
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <TextBlock Text="{Binding ErrorContent}" TextWrapping="Wrap" />
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+            </ItemsControl>
+            
+            <Label Content="Тип тренировки" />
+            <ComboBox x:Name="ComboBoxTraining" IsEditable="True" >
+                <ComboBox.Text>
+                    <Binding Path="Type" UpdateSourceTrigger="PropertyChanged">
+                        <Binding.ValidationRules>
+                            <validators:RequiredRule ValidatesOnTargetUpdated="True" />
+                            <validators:TrainingTypeRule ValidatesOnTargetUpdated="True" />
+                        </Binding.ValidationRules>
+                    </Binding>
+                </ComboBox.Text>
+                <ComboBoxItem Content="Силовая"  />
+                <ComboBoxItem Content="Кардио"  />
+                <ComboBoxItem Content="Функциональная"  />
+                <ComboBoxItem Content="Интервальная"  />
+                <ComboBoxItem Content="Восстановительная"  />
+            </ComboBox>
+            <ItemsControl Foreground="Red" FontSize="12" ItemsSource="{Binding ElementName=ComboBoxTraining, Path=(Validation.Errors)}">
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <TextBlock Text="{Binding ErrorContent}" TextWrapping="Wrap" />
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+            </ItemsControl>
+
+            <Label Content="Продолжительность, в минутах" />
+            <TextBox x:Name="TextBoxDuraction">
+                <TextBox.Text>
+                    <Binding Path="Duration" UpdateSourceTrigger="PropertyChanged">
+                        <Binding.ValidationRules>
+                            <validators:IsNumberRule ValidatesOnTargetUpdated="True" />
+                        </Binding.ValidationRules>
+                    </Binding>
+                </TextBox.Text>
+            </TextBox>
+            <ItemsControl Foreground="Red" FontSize="12" ItemsSource="{Binding ElementName=TextBoxDuraction, Path=(Validation.Errors)}">
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <TextBlock Text="{Binding ErrorContent}" TextWrapping="Wrap" />
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+            </ItemsControl>
+
+
+            <Label Content="Нагрузка" />
+            <TextBox x:Name="TextBoxLoad" >
+                <TextBox.Text>
+                    <Binding Path="Load" UpdateSourceTrigger="PropertyChanged">
+                        <Binding.ValidationRules>
+                            <validators:RequiredRule ValidatesOnTargetUpdated="True" />
+                            <validators:MinLengthRule ValidatesOnTargetUpdated="True" />
+                        </Binding.ValidationRules>
+                    </Binding>
+                </TextBox.Text>
+            </TextBox>
+            <ItemsControl Foreground="Red" FontSize="12" ItemsSource="{Binding ElementName=TextBoxLoad, Path=(Validation.Errors)}">
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <TextBlock Text="{Binding ErrorContent}" TextWrapping="Wrap" />
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+            </ItemsControl>
+            
+            
+            <Label Content="Описание (необязательно) " />
+            <TextBox x:Name="TextBoxDescription" >
+                <Binding Path="Description" UpdateSourceTrigger="PropertyChanged" />
+
+            </TextBox>
+
+
+            <Button Content="Сохранить" x:Name="Savebtn" Click="Savebtn_Click" Width="130" Height="30" Margin="15" Background="#FF7F50" Foreground="White"  />
+
+
+        </StackPanel>
+    </Grid>
+</Window>
