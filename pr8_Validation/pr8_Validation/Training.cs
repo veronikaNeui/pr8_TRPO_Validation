@@ -16,7 +16,30 @@ namespace pr8_Validation
 
         public string DisplayInfo
         {
-            get { return $"{Date:dd.MM.yyyy} | {Type} | {Duration} мин | {Load}"; }
+            get { return $" Тип тренировки: {Type} |  Дата тренировки: {Date:dd.MM.yyyy} \n {DurationDisplay}   |   {Load} \n {Description}" ; }
+        }
+        public string DurationDisplay
+        {
+            get
+            {
+                if (!int.TryParse(Duration, out var duration))
+                {
+                    return Duration + " мин.";
+                }
+                int hours = duration / 60;
+                int minutes = duration % 60;
+
+                if (hours == 0)
+                {
+                    return minutes + " мин.";
+                }
+                if (minutes == 0)
+                {
+                    return hours + " ч.";
+                }
+                return hours + " ч. " + minutes + " мин."; 
+
+            }
         }
     }
 }

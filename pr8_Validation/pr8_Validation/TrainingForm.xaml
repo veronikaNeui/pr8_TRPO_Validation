@@ -39,7 +39,7 @@
             </ItemsControl>
             
             <Label Content="Тип тренировки" />
-            <ComboBox x:Name="ComboBoxTraining" IsEditable="True" >
+            <ComboBox x:Name="ComboBoxTraining" >
                 <ComboBox.Text>
                     <Binding Path="Type" UpdateSourceTrigger="PropertyChanged">
                         <Binding.ValidationRules>

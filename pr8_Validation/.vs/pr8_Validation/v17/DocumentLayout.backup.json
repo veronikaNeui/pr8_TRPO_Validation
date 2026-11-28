@@ -1,46 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Nika\\Desktop\\\u0412\\\u0422\u0420\u041F\u041E\\pr8_Validation\\",
+  "WorkspaceRootPath": "C:\\Users\\Nika\\Desktop\\\u0412\\\u0422\u0420\u041F\u041E\\pr8\\pr8_Validation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{68E44309-415F-4701-8534-34ADA91D1C50}|pr8_Validation\\pr8_Validation.csproj|c:\\users\\nika\\desktop\\\u0432\\\u0442\u0440\u043F\u043E\\pr8_validation\\pr8_validation\\training.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68E44309-415F-4701-8534-34ADA91D1C50}|pr8_Validation\\pr8_Validation.csproj|solutionrelative:pr8_validation\\training.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68E44309-415F-4701-8534-34ADA91D1C50}|pr8_Validation\\pr8_Validation.csproj|c:\\users\\nika\\desktop\\\u0432\\\u0442\u0440\u043F\u043E\\pr8_validation\\pr8_validation\\trainingform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{68E44309-415F-4701-8534-34ADA91D1C50}|pr8_Validation\\pr8_Validation.csproj|c:\\users\\nika\\desktop\\\u0432\\\u0442\u0440\u043F\u043E\\pr8\\pr8_validation\\pr8_validation\\trainingform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{68E44309-415F-4701-8534-34ADA91D1C50}|pr8_Validation\\pr8_Validation.csproj|solutionrelative:pr8_validation\\trainingform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68E44309-415F-4701-8534-34ADA91D1C50}|pr8_Validation\\pr8_Validation.csproj|c:\\users\\nika\\desktop\\\u0432\\\u0442\u0440\u043F\u043E\\pr8_validation\\pr8_validation\\validationrules\\isnumberrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68E44309-415F-4701-8534-34ADA91D1C50}|pr8_Validation\\pr8_Validation.csproj|solutionrelative:pr8_validation\\validationrules\\isnumberrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68E44309-415F-4701-8534-34ADA91D1C50}|pr8_Validation\\pr8_Validation.csproj|c:\\users\\nika\\desktop\\\u0432\\\u0442\u0440\u043F\u043E\\pr8_validation\\pr8_validation\\trainingform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{68E44309-415F-4701-8534-34ADA91D1C50}|pr8_Validation\\pr8_Validation.csproj|c:\\users\\nika\\desktop\\\u0432\\\u0442\u0440\u043F\u043E\\pr8\\pr8_validation\\pr8_validation\\trainingform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68E44309-415F-4701-8534-34ADA91D1C50}|pr8_Validation\\pr8_Validation.csproj|solutionrelative:pr8_validation\\trainingform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68E44309-415F-4701-8534-34ADA91D1C50}|pr8_Validation\\pr8_Validation.csproj|c:\\users\\nika\\desktop\\\u0432\\\u0442\u0440\u043F\u043E\\pr8_validation\\pr8_validation\\validationrules\\minlengthrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68E44309-415F-4701-8534-34ADA91D1C50}|pr8_Validation\\pr8_Validation.csproj|solutionrelative:pr8_validation\\validationrules\\minlengthrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68E44309-415F-4701-8534-34ADA91D1C50}|pr8_Validation\\pr8_Validation.csproj|c:\\users\\nika\\desktop\\\u0432\\\u0442\u0440\u043F\u043E\\pr8_validation\\pr8_validation\\validationrules\\requiredrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68E44309-415F-4701-8534-34ADA91D1C50}|pr8_Validation\\pr8_Validation.csproj|solutionrelative:pr8_validation\\validationrules\\requiredrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68E44309-415F-4701-8534-34ADA91D1C50}|pr8_Validation\\pr8_Validation.csproj|c:\\users\\nika\\desktop\\\u0432\\\u0442\u0440\u043F\u043E\\pr8_validation\\pr8_validation\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{68E44309-415F-4701-8534-34ADA91D1C50}|pr8_Validation\\pr8_Validation.csproj|c:\\users\\nika\\desktop\\\u0432\\\u0442\u0440\u043F\u043E\\pr8\\pr8_validation\\pr8_validation\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68E44309-415F-4701-8534-34ADA91D1C50}|pr8_Validation\\pr8_Validation.csproj|solutionrelative:pr8_validation\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68E44309-415F-4701-8534-34ADA91D1C50}|pr8_Validation\\pr8_Validation.csproj|c:\\users\\nika\\desktop\\\u0432\\\u0442\u0440\u043F\u043E\\pr8_validation\\pr8_validation\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{68E44309-415F-4701-8534-34ADA91D1C50}|pr8_Validation\\pr8_Validation.csproj|c:\\users\\nika\\desktop\\\u0432\\\u0442\u0440\u043F\u043E\\pr8\\pr8_validation\\pr8_validation\\validationrules\\minlengthrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E44309-415F-4701-8534-34ADA91D1C50}|pr8_Validation\\pr8_Validation.csproj|solutionrelative:pr8_validation\\validationrules\\minlengthrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E44309-415F-4701-8534-34ADA91D1C50}|pr8_Validation\\pr8_Validation.csproj|c:\\users\\nika\\desktop\\\u0432\\\u0442\u0440\u043F\u043E\\pr8\\pr8_validation\\pr8_validation\\validationrules\\requiredrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E44309-415F-4701-8534-34ADA91D1C50}|pr8_Validation\\pr8_Validation.csproj|solutionrelative:pr8_validation\\validationrules\\requiredrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E44309-415F-4701-8534-34ADA91D1C50}|pr8_Validation\\pr8_Validation.csproj|c:\\users\\nika\\desktop\\\u0432\\\u0442\u0440\u043F\u043E\\pr8\\pr8_validation\\pr8_validation\\training.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E44309-415F-4701-8534-34ADA91D1C50}|pr8_Validation\\pr8_Validation.csproj|solutionrelative:pr8_validation\\training.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E44309-415F-4701-8534-34ADA91D1C50}|pr8_Validation\\pr8_Validation.csproj|c:\\users\\nika\\desktop\\\u0432\\\u0442\u0440\u043F\u043E\\pr8\\pr8_validation\\pr8_validation\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{68E44309-415F-4701-8534-34ADA91D1C50}|pr8_Validation\\pr8_Validation.csproj|solutionrelative:pr8_validation\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68E44309-415F-4701-8534-34ADA91D1C50}|pr8_Validation\\pr8_Validation.csproj|c:\\users\\nika\\desktop\\\u0432\\\u0442\u0440\u043F\u043E\\pr8_validation\\pr8_validation\\validationrules\\trainingtyperule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68E44309-415F-4701-8534-34ADA91D1C50}|pr8_Validation\\pr8_Validation.csproj|solutionrelative:pr8_validation\\validationrules\\trainingtyperule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68E44309-415F-4701-8534-34ADA91D1C50}|pr8_Validation\\pr8_Validation.csproj|c:\\users\\nika\\desktop\\\u0432\\\u0442\u0440\u043F\u043E\\pr8\\pr8_validation\\pr8_validation\\validationrules\\isnumberrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E44309-415F-4701-8534-34ADA91D1C50}|pr8_Validation\\pr8_Validation.csproj|solutionrelative:pr8_validation\\validationrules\\isnumberrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68E44309-415F-4701-8534-34ADA91D1C50}|pr8_Validation\\pr8_Validation.csproj|c:\\users\\nika\\desktop\\\u0432\\\u0442\u0440\u043F\u043E\\pr8_validation\\pr8_validation\\validationrules\\datenotfuturerule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{68E44309-415F-4701-8534-34ADA91D1C50}|pr8_Validation\\pr8_Validation.csproj|c:\\users\\nika\\desktop\\\u0432\\\u0442\u0440\u043F\u043E\\pr8\\pr8_validation\\pr8_validation\\validationrules\\datenotfuturerule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68E44309-415F-4701-8534-34ADA91D1C50}|pr8_Validation\\pr8_Validation.csproj|solutionrelative:pr8_validation\\validationrules\\datenotfuturerule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E44309-415F-4701-8534-34ADA91D1C50}|pr8_Validation\\pr8_Validation.csproj|c:\\users\\nika\\desktop\\\u0432\\\u0442\u0440\u043F\u043E\\pr8\\pr8_validation\\pr8_validation\\validationrules\\trainingtyperule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E44309-415F-4701-8534-34ADA91D1C50}|pr8_Validation\\pr8_Validation.csproj|solutionrelative:pr8_validation\\validationrules\\trainingtyperule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,11 +58,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "MinLengthRule.cs",
-              "DocumentMoniker": "C:\\Users\\Nika\\Desktop\\\u0412\\\u0422\u0420\u041F\u041E\\pr8_Validation\\pr8_Validation\\ValidationRules\\MinLengthRule.cs",
+              "DocumentMoniker": "C:\\Users\\Nika\\Desktop\\\u0412\\\u0422\u0420\u041F\u041E\\pr8\\pr8_Validation\\pr8_Validation\\ValidationRules\\MinLengthRule.cs",
               "RelativeDocumentMoniker": "pr8_Validation\\ValidationRules\\MinLengthRule.cs",
-              "ToolTip": "C:\\Users\\Nika\\Desktop\\\u0412\\\u0422\u0420\u041F\u041E\\pr8_Validation\\pr8_Validation\\ValidationRules\\MinLengthRule.cs",
+              "ToolTip": "C:\\Users\\Nika\\Desktop\\\u0412\\\u0422\u0420\u041F\u041E\\pr8\\pr8_Validation\\pr8_Validation\\ValidationRules\\MinLengthRule.cs",
               "RelativeToolTip": "pr8_Validation\\ValidationRules\\MinLengthRule.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -71,24 +71,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "TrainingTypeRule.cs",
-              "DocumentMoniker": "C:\\Users\\Nika\\Desktop\\\u0412\\\u0422\u0420\u041F\u041E\\pr8_Validation\\pr8_Validation\\ValidationRules\\TrainingTypeRule.cs",
+              "DocumentMoniker": "C:\\Users\\Nika\\Desktop\\\u0412\\\u0422\u0420\u041F\u041E\\pr8\\pr8_Validation\\pr8_Validation\\ValidationRules\\TrainingTypeRule.cs",
               "RelativeDocumentMoniker": "pr8_Validation\\ValidationRules\\TrainingTypeRule.cs",
-              "ToolTip": "C:\\Users\\Nika\\Desktop\\\u0412\\\u0422\u0420\u041F\u041E\\pr8_Validation\\pr8_Validation\\ValidationRules\\TrainingTypeRule.cs",
+              "ToolTip": "C:\\Users\\Nika\\Desktop\\\u0412\\\u0422\u0420\u041F\u041E\\pr8\\pr8_Validation\\pr8_Validation\\ValidationRules\\TrainingTypeRule.cs",
               "RelativeToolTip": "pr8_Validation\\ValidationRules\\TrainingTypeRule.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-27T13:13:54.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-27T13:13:54.71Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "DateNotFutureRule.cs",
-              "DocumentMoniker": "C:\\Users\\Nika\\Desktop\\\u0412\\\u0422\u0420\u041F\u041E\\pr8_Validation\\pr8_Validation\\ValidationRules\\DateNotFutureRule.cs",
+              "DocumentMoniker": "C:\\Users\\Nika\\Desktop\\\u0412\\\u0422\u0420\u041F\u041E\\pr8\\pr8_Validation\\pr8_Validation\\ValidationRules\\DateNotFutureRule.cs",
               "RelativeDocumentMoniker": "pr8_Validation\\ValidationRules\\DateNotFutureRule.cs",
-              "ToolTip": "C:\\Users\\Nika\\Desktop\\\u0412\\\u0422\u0420\u041F\u041E\\pr8_Validation\\pr8_Validation\\ValidationRules\\DateNotFutureRule.cs",
+              "ToolTip": "C:\\Users\\Nika\\Desktop\\\u0412\\\u0422\u0420\u041F\u041E\\pr8\\pr8_Validation\\pr8_Validation\\ValidationRules\\DateNotFutureRule.cs",
               "RelativeToolTip": "pr8_Validation\\ValidationRules\\DateNotFutureRule.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -97,11 +96,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "IsNumberRule.cs",
-              "DocumentMoniker": "C:\\Users\\Nika\\Desktop\\\u0412\\\u0422\u0420\u041F\u041E\\pr8_Validation\\pr8_Validation\\ValidationRules\\IsNumberRule.cs",
+              "DocumentMoniker": "C:\\Users\\Nika\\Desktop\\\u0412\\\u0422\u0420\u041F\u041E\\pr8\\pr8_Validation\\pr8_Validation\\ValidationRules\\IsNumberRule.cs",
               "RelativeDocumentMoniker": "pr8_Validation\\ValidationRules\\IsNumberRule.cs",
-              "ToolTip": "C:\\Users\\Nika\\Desktop\\\u0412\\\u0422\u0420\u041F\u041E\\pr8_Validation\\pr8_Validation\\ValidationRules\\IsNumberRule.cs",
+              "ToolTip": "C:\\Users\\Nika\\Desktop\\\u0412\\\u0422\u0420\u041F\u041E\\pr8\\pr8_Validation\\pr8_Validation\\ValidationRules\\IsNumberRule.cs",
               "RelativeToolTip": "pr8_Validation\\ValidationRules\\IsNumberRule.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAuwC8AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -110,50 +109,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "RequiredRule.cs",
-              "DocumentMoniker": "C:\\Users\\Nika\\Desktop\\\u0412\\\u0422\u0420\u041F\u041E\\pr8_Validation\\pr8_Validation\\ValidationRules\\RequiredRule.cs",
+              "DocumentMoniker": "C:\\Users\\Nika\\Desktop\\\u0412\\\u0422\u0420\u041F\u041E\\pr8\\pr8_Validation\\pr8_Validation\\ValidationRules\\RequiredRule.cs",
               "RelativeDocumentMoniker": "pr8_Validation\\ValidationRules\\RequiredRule.cs",
-              "ToolTip": "C:\\Users\\Nika\\Desktop\\\u0412\\\u0422\u0420\u041F\u041E\\pr8_Validation\\pr8_Validation\\ValidationRules\\RequiredRule.cs",
+              "ToolTip": "C:\\Users\\Nika\\Desktop\\\u0412\\\u0422\u0420\u041F\u041E\\pr8\\pr8_Validation\\pr8_Validation\\ValidationRules\\RequiredRule.cs",
               "RelativeToolTip": "pr8_Validation\\ValidationRules\\RequiredRule.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAiwA4AAABNAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBMAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-23T11:24:06.605Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Training.cs",
-              "DocumentMoniker": "C:\\Users\\Nika\\Desktop\\\u0412\\\u0422\u0420\u041F\u041E\\pr8_Validation\\pr8_Validation\\Training.cs",
+              "DocumentMoniker": "C:\\Users\\Nika\\Desktop\\\u0412\\\u0422\u0420\u041F\u041E\\pr8\\pr8_Validation\\pr8_Validation\\Training.cs",
               "RelativeDocumentMoniker": "pr8_Validation\\Training.cs",
-              "ToolTip": "C:\\Users\\Nika\\Desktop\\\u0412\\\u0422\u0420\u041F\u041E\\pr8_Validation\\pr8_Validation\\Training.cs",
+              "ToolTip": "C:\\Users\\Nika\\Desktop\\\u0412\\\u0422\u0420\u041F\u041E\\pr8\\pr8_Validation\\pr8_Validation\\Training.cs",
               "RelativeToolTip": "pr8_Validation\\Training.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-23T09:30:09.926Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "TrainingForm.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Nika\\Desktop\\\u0412\\\u0422\u0420\u041F\u041E\\pr8_Validation\\pr8_Validation\\TrainingForm.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nika\\Desktop\\\u0412\\\u0422\u0420\u041F\u041E\\pr8\\pr8_Validation\\pr8_Validation\\TrainingForm.xaml.cs",
               "RelativeDocumentMoniker": "pr8_Validation\\TrainingForm.xaml.cs",
-              "ToolTip": "C:\\Users\\Nika\\Desktop\\\u0412\\\u0422\u0420\u041F\u041E\\pr8_Validation\\pr8_Validation\\TrainingForm.xaml.cs",
+              "ToolTip": "C:\\Users\\Nika\\Desktop\\\u0412\\\u0422\u0420\u041F\u041E\\pr8\\pr8_Validation\\pr8_Validation\\TrainingForm.xaml.cs",
               "RelativeToolTip": "pr8_Validation\\TrainingForm.xaml.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAqwDAAAACVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAACVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-27T13:52:34.034Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "TrainingForm.xaml",
-              "DocumentMoniker": "C:\\Users\\Nika\\Desktop\\\u0412\\\u0422\u0420\u041F\u041E\\pr8_Validation\\pr8_Validation\\TrainingForm.xaml",
+              "DocumentMoniker": "C:\\Users\\Nika\\Desktop\\\u0412\\\u0422\u0420\u041F\u041E\\pr8\\pr8_Validation\\pr8_Validation\\TrainingForm.xaml",
               "RelativeDocumentMoniker": "pr8_Validation\\TrainingForm.xaml",
-              "ToolTip": "C:\\Users\\Nika\\Desktop\\\u0412\\\u0422\u0420\u041F\u041E\\pr8_Validation\\pr8_Validation\\TrainingForm.xaml",
+              "ToolTip": "C:\\Users\\Nika\\Desktop\\\u0412\\\u0422\u0420\u041F\u041E\\pr8\\pr8_Validation\\pr8_Validation\\TrainingForm.xaml",
               "RelativeToolTip": "pr8_Validation\\TrainingForm.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-11-23T09:36:40.401Z",
@@ -161,24 +160,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Nika\\Desktop\\\u0412\\\u0422\u0420\u041F\u041E\\pr8_Validation\\pr8_Validation\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nika\\Desktop\\\u0412\\\u0422\u0420\u041F\u041E\\pr8\\pr8_Validation\\pr8_Validation\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "pr8_Validation\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Nika\\Desktop\\\u0412\\\u0422\u0420\u041F\u041E\\pr8_Validation\\pr8_Validation\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Nika\\Desktop\\\u0412\\\u0422\u0420\u041F\u041E\\pr8\\pr8_Validation\\pr8_Validation\\MainWindow.xaml.cs",
               "RelativeToolTip": "pr8_Validation\\MainWindow.xaml.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAmwDwAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwCMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-23T08:31:43.644Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Nika\\Desktop\\\u0412\\\u0422\u0420\u041F\u041E\\pr8_Validation\\pr8_Validation\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Nika\\Desktop\\\u0412\\\u0422\u0420\u041F\u041E\\pr8\\pr8_Validation\\pr8_Validation\\MainWindow.xaml",
               "RelativeDocumentMoniker": "pr8_Validation\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Nika\\Desktop\\\u0412\\\u0422\u0420\u041F\u041E\\pr8_Validation\\pr8_Validation\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Nika\\Desktop\\\u0412\\\u0422\u0420\u041F\u041E\\pr8\\pr8_Validation\\pr8_Validation\\MainWindow.xaml",
               "RelativeToolTip": "pr8_Validation\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-11-23T08:31:46.033Z",
